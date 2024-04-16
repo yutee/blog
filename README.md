@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Extra
+
+App is in forst stage. As my learning continues, I will integrate backend functionalities using Node.js (Express) and a Database to store application data. This will enable me to add commnents section feature.
+
+Additionally, a dashboard where users can upload posts from "might" be added.
